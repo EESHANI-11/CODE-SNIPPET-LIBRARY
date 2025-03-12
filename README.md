@@ -16,7 +16,7 @@ A **code snippet library** that allows developers to save, search, and manage us
    git clone https://github.com/YOUR_GITHUB_USERNAME/quicksnip.git
 ```
 2.Navigate into the project:
-```sh
+ ```sh
 cd quicksnip
 ```
 3.Install dependencies:
